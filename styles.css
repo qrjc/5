@@ -268,14 +268,7 @@ h3{
             font-size: 21px;
         }
     }
-    @keyframes padding-ol {
-        0%{
-            padding: 0;
-        }
-        100%{
-            padding-left:49px
-        }
-    }
+
 
 } 
 @media(min-height:700){
